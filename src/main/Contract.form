@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JPanelFormInfo">
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <AccessibilityProperties>
+        <Property name="AccessibleContext.accessibleDescription" type="java.lang.String" value=""/>
+      </AccessibilityProperties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  <Component id="jLabel1" min="-2" pref="202" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="83" max="-2" attributes="0"/>
+              </Group>
+              <Group type="102" attributes="0">
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="Print_jButton" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel2" min="-2" pref="648" max="-2" attributes="0"/>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="Date_jLabel" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="CustomerName_jLabel" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace type="separate" max="-2" attributes="0"/>
+                          <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Component id="jScrollPane1" alignment="0" pref="1116" max="32767" attributes="0"/>
+                      <Component id="jPanel2" alignment="0" max="32767" attributes="0"/>
+                      <Component id="jScrollPane3" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="246" max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="Print_jButton" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="5" max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" pref="23" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel2" min="-2" pref="33" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="Date_jLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="CustomerName_jLabel" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel6" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace pref="28" max="32767" attributes="0"/>
+                  <Component id="jScrollPane1" min="-2" pref="1003" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jPanel2" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jScrollPane3" min="-2" pref="149" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+        </Component>
+        <Component class="javax.swing.JButton" name="Print_jButton">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="print"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="Print_jButtonActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Tahoma" size="11" style="1"/>
+            </Property>
+            <Property name="horizontalAlignment" type="int" value="0"/>
+            <Property name="text" type="java.lang.String" value="MKATABA WA UAZIMISHAJI WA MASHINE ZA KUPOOZA VINYWAJI BARIDI VYA COCA-COLA/JOKOFU"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Makubaliano ya mkataba huu yamefanyika leo tarehe"/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="Date_jLabel">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Baina ya COCA-COLA KWANZA LTD, S.L.P 7813 Dar es salaam(ambayo katika mkataba huu atatajwa kama "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Coca Cola) kwa upande mmoja na "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="CustomerName_jLabel">
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel6">
+          <Properties>
+            <Property name="text" type="java.lang.String" value="Wa  S.L.P........................(ambaye katika mkataba atatajwa kama &#x201c;MWAZIMAJI&#x201d; kwa upande mwingine);"/>
+          </Properties>
+        </Component>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextPane" name="jTextPane1">
+              <Properties>
+                <Property name="editable" type="boolean" value="false"/>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="f0" green="f0" red="f0" type="rgb"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="KWA KUWA kampuni ya Coca Cola inazalisha na kuuza soda aina ya Coca Cola na&#xa;KWA KUWA Cocacola inamiliki na kuzalisha machine za kupooza soda zao kwa waazimaji kwa madhumuni ya biashara ya soda hizo.&#xa;KWA KUWA mwazimaji ameomba na Coca cola imekubali kuazimisha machine za kupooza soda za Cocacola kwa madhumuni ya kuuza soda Coca Cola NA&#xa;KWA KUWA pande zote mbili zimekubaliana kuingia kwenye mkataba huu:&#xa;&#xa;                                                                MKATABA HUU UNASHUHUDIA YAFUATAYO:&#xa;&#xa;1.&#x9;Kwamba; mwagizaji atawajibika kutumia jokofu/machine hizo kwa mujibu wa masharti yafuatayo;&#xa;A.&#x9;Mwazimaji atatumia jokofu kwa uangalifu na usafi na atatoa taarifa mara moja uharibifu wowote utakaotokea kwa mwenye mali na mwazimaji atamlipa Coca-Cola uharibifu wowote uliofanywa au uchakavu wa mali uliofanywa kutokana na uzembe au kuharibiwa na mwazimaji au utumishi wake au kuibiwa ikiwa mikononi mwake. Mwazimaji haruhusiwi kufanya matengenezo yoyote kwenye jokofu hilo au kutoa kifaa chochote kile.&#xa;B.&#x9;Coca-Cola itaitunza mali hiyo katika njia nzuri na hali iliyo bora kwa kufanya matengenezo au kuhakikisha mali iliyochakaa au iliyoharibika mradi hiyo isiwe imesababishwa na uzembe wa mwazimaji au mtumishi wake na mwazimaji atawaruhusu watumishi wa Coca-Cola wakati wowote ili kukagua mali hiyo.&#xa;C.&#x9;Mwazimaji hatoondoa jokofu bila kibali cha maandishi kutoka Coca-Cola au kusababisha kuondolewa jokofu ambapo lipo wala kuruhusu kifaa kuchukuliwa kwa nguvu na atawataarifu mara moja Coca-Cola matukio yoyote yafuatayo;&#xa;a.&#x9;Utoaji wa kodi wa nguvu na usumbufu katika mali yoyote ya mwazimaji&#xa;b.&#x9;Uwekaji rehani wa sehemu zozote ambazo mali zimo au;&#xa;a)&#x9;Atafariki au atapata kichaa au kupata kilema cha kudumu au kupata amri inayomkataza kupewa mali hiyo;&#xa;b)&#x9;Kama pia atatenguliwa kwa sababu yoyote au kupata amri iliyotolewa dhidi ya ubia huo au namna yoyote nyingine.&#xa;c)&#x9;Mwazimaji atapaswa kutoa ripoti mara moja kwa Coca-Cola kunapotokea mabadiriko ya jina la biashara yake&#xa;D.&#x9;Iwapo mwazimaji atashindwa kutekeleza masharti muhimu kama vile maonyo ya maandishi ya matumizi ya jokofu:&#xa;E.&#x9;Kuweka bidhaa zisizo za Coca-Cola.&#xa;a.&#x9;Wakati wowote hakikisha jokofu limejaa bidhaa za Coca-Cola na kupangwa katika mpangilio uliolekezwa na Coca-Cola, tofauti na hivyo basi Coca-Cola inaweza ikaamua kuchukua jokofu bila taarifa yoyote.&#xa;F.&#x9;Mwazimaji analazimika kuwa na masanduku ya kutosha ili aweze kuwa na akiba ya soda za kutosha kuhudumia wateja vizuri katika viwago vifuatavyo:&#xa;a.&#x9;Jokofu lenye uwezo wa wa kreti 2 = sanduku 8&#xa;b.&#x9;Jokofu lenye uwezo wa wa kreti 6 = sanduku 18&#xa;c.&#x9;Jokofu lenye uwezo wa wa kreti 8 = sanduku 20&#xa;d.&#x9;Jokofu lenye uwezo wa wa kreti 12 = sanduku 24&#xa;e.&#x9;Jokofu lenye uwezo wa wa kreti 16 = sanduku 30&#xa;G.&#x9;Mwazimaji anatakiwa kuuza bidhaa za Coca-Cola kwa bei ambayo imepangwa/imekubalika na kampuni ya Coca-Cola&#xa;H.&#x9;Mwazimaji pia anatakiwa kuzingatia yafuatayo kuhusu ununuzi kutegemeana na aina ya jokofu alilonalo:&#xa;a.&#x9;Kama anajokofu lenye uwezo wa kuchukua kreti 2 ni lazima mauzo yake yasiwe chini ya sanduku 14 kwa wiki.&#xa;b.&#x9;Kama anajokofu lenye uwezo wa kuchukua kreti 8 ni lazima mauzo yake yasiwe chini ya sanduku 15 kwa wiki.&#xa;c.&#x9;Kama anajokofu lenye uwezo wa kuchukua kreti 12 ni lazima mauzo yake yasiwe chini ya sanduku 20 kwa wiki.&#xa;d.&#x9;Kama anajokofu lenye uwezo wa kuchukua kreti 16 ni lazima mauzo yake yasiwe chini ya sanduku 25 kwa wiki.&#xa;e.&#x9;Kama anajokofu lenye uwezo wa kuchukua kreti 32 ni lazima mauzo yake yasiwe chini ya sanduku 50 kwa wiki.&#xa;I.&#x9;Endapo matengenezo yatahitajika mwazimaji atapaswa kutoa ripoti mara moja kwa wahusika&#xa;J.&#x9;Jokofu litatumika katika kuuza bidhaa za Coca-Cola tu.&#xa;K.&#x9;Coca-Cola haitawajibika kwa mwazimaji au mtu mwingine yeyote kwa kifo chochote, kuumia au madhara yaliyosababishwa kwa namna yoyote kutokana na kuhusiana na matumizi ya kifaa hicho au utunzaji wake kwa anaemiliki, vinginevyo kwa namna yoyote iwapo jambo limetokana na uzmbe kwa kiwango chochote.&#xa;2.&#x9;Kwamba; iwapo kutatokea kutoelewana au mgogoro wowote kuhusiana na mkataba huu pande zote mbili zitajaribuwezekanavyo kutatua kabla ya hatua nyingoine za kisheria kuchukuliwa.&#xa;&#xa;                                                                    MKATABA HUU UMETIWA SAHIHI NA PANDE ZOTE MBILI KAMA IFUATAVYO:&#xa;Imetiwa sahihi na ................................................&#xa;Kwa niaba ya Coca-Cola Kwanza Ltd&#xa;Leo tarehe&#x2026;&#x2026;&#x2026;&#x2026;&#x2026;. Mwezi&#x2026;&#x2026;&#x2026;&#x2026;. Mwaka&#x2026;&#x2026;&#x2026;..........&#xa;&#xa;Mbele ya&#xa;&#xa;1.&#x9;Jina&#x2026;&#x2026;&#x2026;............................................&#xa;&#xa;                     Anuani&#x2026;&#x2026;...........................................&#xa;&#xa;                     Sahihi&#x2026;&#x2026;.............................................&#xa;&#xa;                     Cheo&#x2026;................................................&#xa;&#xa;&#xa;2.&#x9;Jina&#x2026;&#x2026;&#x2026;............................................&#xa;&#xa;                     Anuani&#x2026;&#x2026;...........................................&#xa;&#xa;                     Sahihi&#x2026;&#x2026;.............................................&#xa;&#xa;                     Cheo&#x2026;................................................&#xa;&#xa;&#xa;&#xa;&#xa;&#xa;"/>
+                <Property name="opaque" type="boolean" value="false"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                              <Component id="jLabelCustomer" min="-2" pref="188" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="jLabel8" alignment="0" min="-2" max="-2" attributes="0"/>
+                                  <Component id="jLabel9" alignment="0" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" attributes="0">
+                                      <EmptySpace min="-2" pref="12" max="-2" attributes="0"/>
+                                      <Component id="outletNamejLabel" max="32767" attributes="0"/>
+                                  </Group>
+                                  <Component id="Date2_jLabel" max="32767" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel7" alignment="3" min="-2" pref="25" max="-2" attributes="0"/>
+                          <Component id="jLabelCustomer" alignment="3" min="-2" pref="25" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel8" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="outletNamejLabel" alignment="3" min="-2" pref="23" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="18" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="jLabel9" min="-2" max="-2" attributes="0"/>
+                              <EmptySpace max="-2" attributes="0"/>
+                          </Group>
+                          <Component id="Date2_jLabel" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel7">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Imetiwa sahihi na"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabelCustomer">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel8">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Kwa niaba ya "/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="outletNamejLabel">
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel9">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Leo tarehe "/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JLabel" name="Date2_jLabel">
+            </Component>
+          </SubComponents>
+        </Container>
+        <Container class="javax.swing.JScrollPane" name="jScrollPane3">
+          <AuxValues>
+            <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+          </AuxValues>
+
+          <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+          <SubComponents>
+            <Component class="javax.swing.JTextPane" name="jTextPane3">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="&#xa;Mbele ya&#xa;&#xa;1.&#x9;Jina&#x2026;&#x2026;&#x2026;............................................&#xa;&#xa;                     Anuani&#x2026;&#x2026;...........................................&#xa;&#xa;                     Sahihi&#x2026;&#x2026;.............................................&#xa;&#xa;                     Cheo&#x2026;................................................&#xa;"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
