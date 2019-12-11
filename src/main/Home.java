@@ -1,5 +1,4 @@
 
-
 import static java.awt.image.ImageObserver.WIDTH;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -19,6 +18,11 @@ import javax.swing.table.DefaultTableCellRenderer;
 import javax.swing.table.TableCellRenderer;
 import javax.swing.table.TableColumn;
 import javax.swing.table.TableColumnModel;
+import org.jfree.chart.ChartFactory;
+import org.jfree.chart.ChartPanel;
+import org.jfree.chart.JFreeChart;
+import org.jfree.chart.plot.CategoryPlot;
+import org.jfree.data.category.DefaultCategoryDataset;
 
 
 
@@ -572,7 +576,6 @@ new Home();
             
         });
     }
-
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
